@@ -1,0 +1,45 @@
+body{margin: 0; padding: 0;}
+header{background: url(Gambar/background.png); background-repeat: no-repeat; width: 100%; height: 500px;}
+header .img img{width: 70px; height: 60px; float: left; margin-left: 100px; margin-top: 30px;}
+header nav ul{list-style: none; margin: 0; padding: 0;}
+header nav ul a{text-decoration: none; padding: 5px 15px; display: inline-block; color: #FFF;}
+header nav ul li{float: right; margin-top: 40px;}
+header nav ul .download a{border-style: solid; border-radius: 25px; width: 100px; height: 25px; text-align: center; margin-right: 80px;}
+header .title h1{text-transform: uppercase; color: #000; font-size: 70px; text-align: center; margin-left: 800px; position: relative; bottom: 150px;}
+header .title h2{text-transform: uppercase; color: #000; font-size: 70px; text-align: center; margin-right: 850px; position: relative; top: 55px;}
+header .gambar img{float: left; width: 10px; height: 10px;}
+.clear{clear: both;}
+section .text{text-align: center; font-size: 50px; color: #878787; padding-right: 150px; padding-left: 150px; padding-top: 50px; padding-bottom: 50px;}
+section .content{margin: 0 auto; width: 70%;}
+section .content .first{float: left; width: 29%; padding: 10px; margin: 10px;}
+section .content .first img{float: left; margin-left: 27px;}
+section .content .second{float: left; width: 29%; padding: 10px; margin: 10px;}
+section .content .second img{float: left; margin-left: 27px;}
+section .content .third{float: left; width: 29%; padding: 10px; margin: 10px;}
+section .content .third img{float: left; margin-left: 27px;}
+section .content .first h2{text-align: center; color: #2E2E2E;}
+section .content .second h2{text-align: center; color: #2E2E2E;}
+section .content .third h2{text-align: center; color: #2E2E2E;}
+section .download{text-align: center; margin-top: 70px; margin-bottom: 100px;}
+section .download p{color: #616161; font-size: 30px;}
+section .download a{text-decoration: none; color: #FFF; border: solid; border-radius: 30px; background: #859FFF; width: 300px; text-transform: uppercase; border-color: #859FFF; padding: 10px 20px;}
+section .download a:hover{background: #8082FF; border-color: #8082FF;}
+.clear{clear: both;}
+section .vid{background: url(Gambar/video.jpg); width: 70%; background-repeat: no-repeat; height: 400px; margin: 0 auto;}
+section .vid a{text-decoration: none; font-size: 30px; color: #FFF; text-transform: uppercase; text-align: center; border-radius: 50px; border-style: solid; margin-left: 350px; background-color: rgba(50, 70, 100, .9); border-color: rgba(50, 70, 100, .9); position: relative; top: 125px; padding-left: 10px; padding-right: 15px; padding-top: 5px; padding-bottom: 5px;}
+section .vid a:hover{background-color: #333333; border-color: #333333;}
+section .vid img{width: 50px; position: relative; top: 12px;}
+footer nav{width: 70%; margin: 0 auto;}
+footer nav ul{list-style: none; width: 9%; float: left;}
+footer nav a{text-decoration: none; padding-right: 100px; color: #5B5B5B;}
+footer nav a:hover{color: #414141;}
+footer .account .facebook{width: 35px; height: 35px; float: left; margin-left: 60px; margin-top: 20px;}
+footer .account .twitter{width: 35px; height: 35px; float: left; margin-left: 15px; margin-top: 20px;}
+footer .made a{text-transform: uppercase; text-decoration: none; color: #5B5B5B; float: left; margin-left: 70px;}
+footer .made a:hover{color: #414141;}
+footer .made img{width: 40px; height: 40px; position: relative; top: 12px; margin-left: 10px;}
+footer .copyright{width: 45%; margin: 0 auto;}
+footer .copyright ul{list-style: none;}
+footer .copyright a{text-decoration: none; padding: 5px 15px; color: #686868;}
+footer .copyright a:hover{color: #4E4E4E;}
+footer .copyright ul li{float: left; color: #686868;};
