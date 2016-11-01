@@ -1,0 +1,25 @@
+body{margin: 0; padding: 0;}
+header a{text-transform: uppercase; text-decoration: none; color: #363636; float: left; font-size: 35px; margin-left: 40px;}
+section{text-align: center;}
+section	h1{color: #505050; font-size: 50px;}
+section	p{color: #5D5D5D; font-size: 20px;}
+section	.Continue{border-style: solid; text-decoration: none; color: #EBEBEB; border-radius: 20px; padding-left: 85px; padding-right: 85px; padding-top: 8px; padding-bottom: 8px; background: #FF5C35;}
+section	.Continue:hover{background: #FF471B;}		
+section	.google{border-style: solid; text-decoration: none; color: #5D5D5D; border-radius: 20px; padding-left: 88px; padding-right: 88px; padding-top: 5px; padding-bottom: 5px;}
+section	.facebook{border-style: solid; text-decoration: none; color: #5D5D5D; border-radius: 20px; padding-left: 80px; padding-right: 80px; padding-top: 5px; padding-bottom: 5px;}
+.clear{clear: both;}
+section	form input{padding-left: 70px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px}
+footer nav{width: 70%; margin: 0 auto; margin-top: 110px;}
+footer nav ul{list-style: none; width: 9%; float: left;}
+footer nav a{text-decoration: none; padding-right: 100px; color: #5B5B5B;}
+footer nav a:hover{color: #414141;}
+footer .account .facebook{width: 35px; height: 35px; float: left; margin-left: 60px; margin-top: 20px;}
+footer .account .twitter{width: 35px; height: 35px; float: left; margin-left: 15px; margin-top: 20px;}
+footer .made a{text-transform: uppercase; text-decoration: none; color: #5B5B5B; float: left; margin-left: 70px;}
+footer .made a:hover{color: #414141;}
+footer .made img{width: 40px; height: 40px; position: relative; top: 12px; margin-left: 10px;}
+footer .copyright{width: 45%; margin: 0 auto;}
+footer .copyright ul{list-style: none;}
+footer .copyright a{text-decoration: none; padding: 5px 15px; color: #686868;}
+footer .copyright a:hover{color: #4E4E4E;}
+footer .copyright ul li{float: left; color: #686868;};
