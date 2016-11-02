@@ -5,10 +5,10 @@ section	h1{color: #505050; font-size: 50px;}
 section	p{color: #5D5D5D; font-size: 20px;}
 section	.Continue{border-style: solid; text-decoration: none; color: #EBEBEB; border-radius: 20px; padding-left: 85px; padding-right: 85px; padding-top: 8px; padding-bottom: 8px; background: #FF5C35; border-color: #FF5C35;}
 section	.Continue:hover{background: #FF471B; border-color: #FF471B;}		
-section	.google{border-style: solid; text-decoration: none; color: #5D5D5D; border-radius: 20px; padding-left: 88px; padding-right: 88px; padding-top: 5px; padding-bottom: 5px;}
-section	.facebook{border-style: solid; text-decoration: none; color: #5D5D5D; border-radius: 20px; padding-left: 80px; padding-right: 80px; padding-top: 5px; padding-bottom: 5px;}
+section	.google{border-style: solid; text-decoration: none; color: #5D5D5D; border-radius: 20px; padding-left: 92px; padding-right: 92px; padding-top: 5px; padding-bottom: 5px;}
+section	.facebook{border-style: solid; text-decoration: none; color: #5D5D5D; border-radius: 20px; padding-left: 82px; padding-right: 82px; padding-top: 5px; padding-bottom: 5px;}
 .clear{clear: both;}
-section	form input{padding-left: 70px; padding-right: 20px; padding-top: 5px; padding-bottom: 5px}
+section	form input{width: 17%; padding-top: 7px; padding-bottom: 7px; text-align: center;}
 footer nav{width: 70%; margin: 0 auto; margin-top: 110px;}
 footer nav ul{list-style: none; width: 9%; float: left;}
 footer nav a{text-decoration: none; padding-right: 100px; color: #5B5B5B;}
