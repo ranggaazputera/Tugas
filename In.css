@@ -3,8 +3,8 @@ header a{text-transform: uppercase; text-decoration: none; color: #363636; float
 section{text-align: center;}
 section	h1{color: #505050; font-size: 50px;}
 section	p{color: #5D5D5D; font-size: 20px;}
-section	.Continue{border-style: solid; text-decoration: none; color: #EBEBEB; border-radius: 20px; padding-left: 85px; padding-right: 85px; padding-top: 8px; padding-bottom: 8px; background: #FF5C35;}
-section	.Continue:hover{background: #FF471B;}		
+section	.Continue{border-style: solid; text-decoration: none; color: #EBEBEB; border-radius: 20px; padding-left: 85px; padding-right: 85px; padding-top: 8px; padding-bottom: 8px; background: #FF5C35; border-color: #FF5C35;}
+section	.Continue:hover{background: #FF471B; border-color: #FF471B;}		
 section	.google{border-style: solid; text-decoration: none; color: #5D5D5D; border-radius: 20px; padding-left: 88px; padding-right: 88px; padding-top: 5px; padding-bottom: 5px;}
 section	.facebook{border-style: solid; text-decoration: none; color: #5D5D5D; border-radius: 20px; padding-left: 80px; padding-right: 80px; padding-top: 5px; padding-bottom: 5px;}
 .clear{clear: both;}
